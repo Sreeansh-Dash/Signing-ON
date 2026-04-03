@@ -1,0 +1,21 @@
+{
+  "sign_id": 23,
+  "label": "ISL_X",
+  "target_angles": [
+    90,
+    45,
+    90,
+    90,
+    90
+  ],
+  "wrist_orientation": {
+    "roll_deg": 0,
+    "pitch_deg": 0,
+    "yaw_deg": 90
+  },
+  "tolerance_band": 8.0,
+  "imu_tolerance": 15.0,
+  "haptic_pattern": "simultaneous",
+  "is_dynamic": false,
+  "notes": "Index finger hooked (~45\u00b0 bend). All others curled."
+}

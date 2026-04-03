@@ -1,0 +1,21 @@
+{
+  "sign_id": 10,
+  "label": "ISL_K",
+  "target_angles": [
+    0,
+    0,
+    0,
+    90,
+    90
+  ],
+  "wrist_orientation": {
+    "roll_deg": 0,
+    "pitch_deg": 0,
+    "yaw_deg": 90
+  },
+  "tolerance_band": 8.0,
+  "imu_tolerance": 15.0,
+  "haptic_pattern": "simultaneous",
+  "is_dynamic": false,
+  "notes": "Thumb, index, middle extended. Ring and pinky curled."
+}

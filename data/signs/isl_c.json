@@ -1,0 +1,21 @@
+{
+  "sign_id": 2,
+  "label": "ISL_C",
+  "target_angles": [
+    30,
+    30,
+    30,
+    30,
+    30
+  ],
+  "wrist_orientation": {
+    "roll_deg": 0,
+    "pitch_deg": 10,
+    "yaw_deg": 90
+  },
+  "tolerance_band": 8.0,
+  "imu_tolerance": 15.0,
+  "haptic_pattern": "simultaneous",
+  "is_dynamic": false,
+  "notes": "Curved hand, all fingers partially bent ~30\u00b0. Slight pitch forward."
+}

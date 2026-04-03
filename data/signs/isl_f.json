@@ -1,0 +1,21 @@
+{
+  "sign_id": 5,
+  "label": "ISL_F",
+  "target_angles": [
+    0,
+    90,
+    0,
+    0,
+    0
+  ],
+  "wrist_orientation": {
+    "roll_deg": 0,
+    "pitch_deg": 0,
+    "yaw_deg": 90
+  },
+  "tolerance_band": 8.0,
+  "imu_tolerance": 15.0,
+  "haptic_pattern": "simultaneous",
+  "is_dynamic": false,
+  "notes": "Index finger curled to touch thumb, remaining three extended."
+}

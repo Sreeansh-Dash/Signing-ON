@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ML artifacts
+ml/data/*.csv
+ml/model/*.tflite
+ml/model/*.h5
+
+# Validation results
+validation/results/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PlatformIO
+firmware/.pio/
+firmware/.vscode/
+
+# Misc
+*.log
+.env
+*.pdf
+PROJECT_CORE_LOGIC.md
+robotic_glove_project_reference.pdf
+ml_output.txt

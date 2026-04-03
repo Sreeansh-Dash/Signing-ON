@@ -1,0 +1,21 @@
+{
+  "sign_id": 14,
+  "label": "ISL_O",
+  "target_angles": [
+    20,
+    20,
+    20,
+    20,
+    20
+  ],
+  "wrist_orientation": {
+    "roll_deg": 0,
+    "pitch_deg": 0,
+    "yaw_deg": 90
+  },
+  "tolerance_band": 8.0,
+  "imu_tolerance": 15.0,
+  "haptic_pattern": "simultaneous",
+  "is_dynamic": false,
+  "notes": "All fingers slightly curled to form O shape ~20\u00b0."
+}

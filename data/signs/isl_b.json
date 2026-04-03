@@ -1,0 +1,21 @@
+{
+  "sign_id": 1,
+  "label": "ISL_B",
+  "target_angles": [
+    90,
+    0,
+    0,
+    0,
+    0
+  ],
+  "wrist_orientation": {
+    "roll_deg": 0,
+    "pitch_deg": 0,
+    "yaw_deg": 90
+  },
+  "tolerance_band": 8.0,
+  "imu_tolerance": 15.0,
+  "haptic_pattern": "simultaneous",
+  "is_dynamic": false,
+  "notes": "Four fingers extended straight, thumb folded across palm. Wrist upright."
+}

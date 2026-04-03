@@ -1,0 +1,21 @@
+{
+  "sign_id": 4,
+  "label": "ISL_E",
+  "target_angles": [
+    60,
+    60,
+    60,
+    60,
+    60
+  ],
+  "wrist_orientation": {
+    "roll_deg": 0,
+    "pitch_deg": 0,
+    "yaw_deg": 90
+  },
+  "tolerance_band": 8.0,
+  "imu_tolerance": 15.0,
+  "haptic_pattern": "simultaneous",
+  "is_dynamic": false,
+  "notes": "All fingers partially curled ~60\u00b0, forming a loose fist."
+}
